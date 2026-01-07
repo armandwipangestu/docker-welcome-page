@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/armandwipangestu/docker-welcome-page/compare/v1.0.0...v1.0.1) (2026-01-07)
+
+### Bug Fixes
+
+* make responsive content ([74dbe2a](https://github.com/armandwipangestu/docker-welcome-page/commit/74dbe2ab9f3d69b567d82d1a044e1d404b421bd1))
+
 ## 1.0.0 (2026-01-07)
 
 ### Features

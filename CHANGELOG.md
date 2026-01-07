@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/armandwipangestu/docker-welcome-page/compare/v1.0.1...v1.0.2) (2026-01-07)
+
+### Bug Fixes
+
+* background dropdown ([9a4d141](https://github.com/armandwipangestu/docker-welcome-page/commit/9a4d141939efc14915fdf4138d9e42957257a642))
+
 ## [1.0.1](https://github.com/armandwipangestu/docker-welcome-page/compare/v1.0.0...v1.0.1) (2026-01-07)
 
 ### Bug Fixes

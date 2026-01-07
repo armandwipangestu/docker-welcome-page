@@ -43,7 +43,7 @@ export default function App() {
       />
 
       <div className="z-10 flex flex-col items-center justify-center text-center max-w-2xl px-4">
-        <div className="mb-6 flex justify-center gap-5">
+        <div className="mb-6 flex flex-wrap justify-center gap-5">
           <div className="rounded-lg border border-primary/20 bg-primary/5 p-4">
             <FaCloudflare className="h-10 w-10 text-primary" />
           </div>
